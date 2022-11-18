@@ -2,7 +2,7 @@
 
 ## What's included:
 
-- Dockerized
+- Fully Dockerized
 - Swagger API Documentation
 - <b>Repository Design Pattern</b>
 - <b>Race condition</b> prevention (database locks: both MySql & Redis)
