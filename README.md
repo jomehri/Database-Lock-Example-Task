@@ -1,8 +1,8 @@
 ## Design an API with following conditions (AbanTether - Ali Jomehri)
-1
+
 ## What's included:
 
-- Fully Dockerized
+- Dockerized
 - Swagger API Documentation
 - <b>Repository Design Pattern</b>
 - <b>Race condition</b> prevention (database locks: both MySql & Redis)
